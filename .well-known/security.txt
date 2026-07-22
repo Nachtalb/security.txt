@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:report@nachtalb.io
+Encryption: https://naa.gg/.well-known/report-nachtalb.asc
+Preferred-Languages: en, de
+Canonical: https://naa.gg/.well-known/security.txt
+Expires: 2027-07-22T00:00:00.000Z
+
+-----BEGIN PGP SIGNATURE-----
+
+iIkEARYKADEWIQRSbsQjevvqF2hWQ0HBGdO1ClUUEgUCamC4RhMccmVwb3J0QG5h
+Y2h0YWxiLmlvAAoJEMEZ07UKVRQSQ28A/0dBjF31IMsjNm5bS822T/leSee1cGe5
+Xy7y+u1p0a3wAQCpQ+zXT/fTUKDF8E5y9N2N+y28n96xLqcRKHhyGd+KDw==
+=FN5j
+-----END PGP SIGNATURE-----
